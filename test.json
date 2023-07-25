@@ -7,43 +7,32 @@
         "name":"Test 1",
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/app/1856090/workshop/"
+        "url":"https://steamcommunity.com/app/1856090/workshop/",
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
       },
       {
         "name":"Test 2",
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/?subsection=screenshots"
+        "url":"https://steamcommunity.com/?subsection=screenshots",
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
+      
       },
       {
         "name":"Test 1",
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/app/1856090/workshop/"
+        "url":"https://steamcommunity.com/app/1856090/workshop/",
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
+      
       },
       {
         "name":"Test 1",
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/app/1856090/workshop/"
-      },
-      {
-        "name":"Test 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/app/1856090/workshop/"
-      },
-      {
-        "name":"Test 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/app/1856090/workshop/"
-      },
-      {
-        "name":"Test 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf",
-        "url":"https://steamcommunity.com/app/1856090/workshop/"
+        "url":"https://steamcommunity.com/app/1856090/workshop/",
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
+      
       }
     ]
   },
@@ -78,81 +67,7 @@
       }
     ]
   },
-  {"name":"sds",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-    "subcategory":[
-      {
-        "name":"SubCategory 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      },
-      {
-        "name":"SubCategory 2",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      }
-    ]
-  },
-  {"name":"sds",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-    "subcategory":[
-      {
-        "name":"SubCategory 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      },
-      {
-        "name":"SubCategory 2",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      }
-    ]
-  },
-  {"name":"sds",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-    "subcategory":[
-      {
-        "name":"SubCategory 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      },
-      {
-        "name":"SubCategory 2",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      }
-    ]
-  },
-  {"name":"sds",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-    "subcategory":[
-      {
-        "name":"SubCategory 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      },
-      {
-        "name":"SubCategory 2",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      }
-    ]
-  },
-  {"name":"sds",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-    "subcategory":[
-      {
-        "name":"SubCategory 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      },
-      {
-        "name":"SubCategory 2",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
-        "description":"dsfcdsf"
-      }
-    ]
-  },
+ 
   {"name":"sds",
     "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
     "subcategory":[
