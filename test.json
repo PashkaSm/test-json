@@ -1,11 +1,11 @@
 [
   {
-    "name":"Category 3334",
-    "image":"https://wallpaperaccess.com/full/246828.jpg",
+    "name":"Category 1",
+    "image":"https://pashkasm.github.io/test-json/image/388765031209b7cd075fe33d4e0a143e.png",
     "subcategory":[
       {
         "name":"Test 1",
-        "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
+        "image":"https://pashkasm.github.io/test-json/image/6548ce558600931c751c88cc155ebbba.png",
         "description":"The Exotic Heavy Machine Gun, Heir Apparent from Destiny 2. This machine gun acts like a minigun in that it has to be spun up with Mouse 2 before being able to fire. Fully spinning up this weapon will also protect you with an Arc Shield",
         "url":"https://steamcommunity.com/app/1856090/workshop/",
         "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
@@ -37,8 +37,8 @@
     ]
   },
 
-  {"name":"Milion",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
+  {"name":"Category 2",
+    "image":"https://pashkasm.github.io/test-json/image/714e09882a1c46ee9a53b0bfc33cb388.png",
     "subcategory":[
       {
         "name":"Test 11",
@@ -53,7 +53,7 @@
     ]
   },
   {"name":"Category 3",
-    "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
+    "image":"https://pashkasm.github.io/test-json/image/a524adcf848dbaa7ef5a1e3d75d112f5.png",
     "subcategory":[
       {
         "name":"SubCategory 1",
