@@ -8,22 +8,26 @@
         "image":"https://pashkasm.github.io/test-json/image/6548ce558600931c751c88cc155ebbba.png",
         "description":"The Exotic Heavy Machine Gun, Heir Apparent from Destiny 2. This machine gun acts like a minigun in that it has to be spun up with Mouse 2 before being able to fire. Fully spinning up this weapon will also protect you with an Arc Shield",
         "url":"https://steamcommunity.com/app/1856090/workshop/",
-        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\".",
+        "instruction ":"instruction"
+
       },
       {
         "name":"Test 2",
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsf",
         "url":"https://steamcommunity.com/?subsection=screenshots",
-        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
-      
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\".",
+        "instruction ":"instruction"
+        
       },
       {
         "name":"Test 1",
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsf",
         "url":"https://steamcommunity.com/app/1856090/workshop/",
-        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\".",
+        "instruction ":"instruction"
       
       },
       {
@@ -31,8 +35,8 @@
         "image":"https://ds.beagle.com.ua/media/revslider/range/ds-4/new-ds-4-right-hero-mobile.jpg",
         "description":"dsfcdsfv dsfcdsfdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsf dsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsf dsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsf dsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsf dsfdsf dsfcdsfv dsf dsfdsf dsfcdsfv dsf dsfdsf dsfcdsfv dsf dsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsf vdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfv dsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsfdsfcdsfv dsfcdsfdsf dsfcdsfv dsfcdsfdsf cdsf",
         "url":"https://steamcommunity.com/app/1856090/workshop/",
-        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\"."
-      
+        "faq":"A guide is a manual, a guide that helps a person understand a subject. Usually, guides are dedicated to professional or technical issues. The name comes from the English word guide, which means \"direction\", \"guide\", \"guide\" or \"guide\".",
+        "instruction ":"instruction"
       }
     ]
   },
